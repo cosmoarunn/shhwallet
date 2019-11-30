@@ -4,7 +4,7 @@ ShhWallet is a Node.JS javascript library built on bitcoinjs-lib to provide api 
 
 ## Installation
 
-Use the Node package manager [npm](https://www.npmjs.com/) to install shhwallet.
+Use git clone or the node package manager [npm](https://www.npmjs.com/) to install shhwallet.
 
 ```bash
 npm install shhwallet
