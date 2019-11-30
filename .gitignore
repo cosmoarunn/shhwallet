@@ -1,1 +1,7 @@
 node_modules
+marketprice/1year.json
+marketprice/alltime.json
+marketprice/6months.json
+marketprice/60days.json
+marketprice/2year.json
+http_test.js
