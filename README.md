@@ -11,9 +11,10 @@ Assuming bitcoind & bitcoin-cli is running in local server,
 
 ## Installation
 ```bash
-1. Run sudo git clone git@github.com:cosmoarunn/shhwallet.git
+1. Run sudo git clone git@github.com:cosmoarunn/shhwallet.git  
+   - if facing 'permission denied' error, try git clone https://github.com/cosmoarunn/shhwallet
 2. cd shhwallet
-3. Run composer install
+3. Run npm install
 ```
 
 
