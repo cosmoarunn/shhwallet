@@ -1,0 +1,29 @@
+# ShhWallet
+
+ShhWallet is a javascript library built on bitcoinjs-lib to provide api services through bitcoin rpc client
+
+## Installation
+
+Use the package manager [node](https://www.npmjs.com/) to install shhwallet.
+
+```bash
+npm install shhwallet
+```
+
+## Usage
+
+```Node.JS
+import shhwallet
+
+shhwallet.pluralize('word') # returns 'words'
+shhwallet.pluralize('goose') # returns 'geese'
+shhwallet.singularize('phenomena') # returns 'phenomenon'
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://arunpanneerselvam.com/licenses/mit/)
