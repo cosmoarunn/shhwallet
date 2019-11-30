@@ -1,6 +1,6 @@
 # ShhWallet
 
-ShhWallet is a javascript library built on bitcoinjs-lib to provide api services through bitcoin rpc client
+ShhWallet is a Node.JS javascript library built on bitcoinjs-lib to provide api services through bitcoin rpc client
 
 ## Installation
 
