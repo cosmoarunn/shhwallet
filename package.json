@@ -24,7 +24,7 @@
       "jsonwebtoken": "^8.4.0",
       "less": "^3.9.0",
       "md5": "^2.2.1",
-      "mongo-express": "^0.49.0",
+      "mongo-express": "^0.54.0",
       "mongoose": "^5.7.13",
       "morgan": "^1.9.1",
       "mustache": "^2.3.2",
